@@ -10,8 +10,5 @@
             "name": "Jeff Geerling",
             "email": "jeff@jeffgeerling.com"
         }
-    ],
-    "require": {
-        "ansible": "~2"
-    }
+    ]
 }
