@@ -10,5 +10,8 @@
             "name": "Jeff Geerling",
             "email": "jeff@jeffgeerling.com"
         }
-    ]
+    ],
+    "autoload": {
+        "exclude-from-classmap": ["/**"]
+    }
 }
