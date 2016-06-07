@@ -12,6 +12,6 @@
         }
     ],
     "require": {
-        "ansible": "~2.x"
+        "ansible": "~2"
     }
 }
