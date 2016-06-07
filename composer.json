@@ -4,7 +4,7 @@
     "description": "An Ansible Role that installs Apache 2.x on RHEL/CentOS, Debian/Ubuntu, SLES and Solaris.",
     "keywords": ["geerlingguy", "Ansible", "Apache 2.x", "Debian/Ubuntu", "RHEL/CentOS", "SLES", "Solaris"],
     "homepage": "https://github.com/geerlingguy/ansible-role-apache",
-    "license": "Apache-2.0",
+    "license": "MIT / BSD",
     "authors": [
         {
             "name": "Jeff Geerling",
